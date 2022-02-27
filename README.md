@@ -21,8 +21,8 @@ The model informations and the evaluations are given in the DLRV_PresentationSli
 -  [References](#references)
 
 # How to use code
-Each of the .ipynb files were created and run in their separate conda environments.
-Use the requirements.txt file to install dependencies.
+- Each of the .ipynb files were created and run in their separate conda environments.
+- Use the requirements.txt file to install dependencies.
 
 # In a Nutshell
 ```
