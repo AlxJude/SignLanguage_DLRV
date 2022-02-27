@@ -64,9 +64,9 @@ Each of the .ipynb files were created and run in their separate conda environmen
 -T his program turns the camera on as a live feed and predicts in real time the alphabets of the hand signs.
 
 # Code 2
-- Code 2[3][4] folder contains code for inference part of the trained pre-trained VGG16 model.
+- Code 2 [3][4] folder contains code for inference part of the trained pre-trained VGG16 model.
 - Install requirements using the requirements.txt file.
-- Run ’Code2.ipynb’4to load the pre-trained model and perform real time sign language to alphabet prediction.
+- Run ’Code2.ipynb’ [4] to load the pre-trained model and perform real time sign language to alphabet prediction.
 
 # Future Work
 - Adding the region proposal network in live sign language prediction
