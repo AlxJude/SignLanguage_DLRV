@@ -16,14 +16,15 @@
 The model informations and the evaluations are given in the DLRV_PresentationSlides.
 
 # Table Of Contents
-- In a Nutshell
-- Future Work
-- References
+-  [In a Nutshell](#in-a-nutshell)
+-  [Future Work](#future-work)
+-  [References](#references)
 
 # How to use code
 Each of the .ipynb files were created and run in their separate conda environments.use the requirements.txt file to install dependencies.
 
 # In a Nutshell
+```
 ├──  ChangeDimentions
 │    └── ChangeDimentions  - here's the python file to change the dimensions of the images.
 │
@@ -42,6 +43,7 @@ Each of the .ipynb files were created and run in their separate conda environmen
 │
 └── ImageCollection            - this folder contains the python file to capture the images for the dataset.
    └── ImageCollection.ipynb  - here's the ipython file for capturing the gesture images for creating the dataset.
+```
 
 # Image Collection (Optional)
 - Run ’ImageCollection.ipynb’ to collect images.
